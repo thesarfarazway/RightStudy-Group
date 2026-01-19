@@ -1,0 +1,8 @@
+{
+  "name": "RightStudy",
+  "description": "Official platform for Rightstudy Technical Institute and School of Excellence, featuring course management, student portal, and AI-powered assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
